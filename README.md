@@ -11,4 +11,4 @@ Time schedule: Friday 13 pm - 15 pm Saturday 9 am - 12 am
 
 (Monday 02.28) Next step is countinue to wacthing https://www.youtube.com/watch?v=wfWxdh-_k_4&t=33157s and do notes and changes in my project.
 
-(soon)
+(Friday 03.04) Countinue work with Visual Studio Code 
